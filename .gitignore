@@ -1,1 +1,14 @@
 .DS_Store
+.vscode/settings.json
+C++/freeCodeCamp/3.2FirstCppProgram/a.out
+C++/freeCodeCamp/3.2FirstCppProgram/a.out.dSYM/Contents/Info.plist
+C++/freeCodeCamp/3.2FirstCppProgram/a.out.dSYM/Contents/Resources/DWARF/a.out
+.vscode/tasks.json
+C++/freeCodeCamp/3.2FirstCppProgram/main
+C++/freeCodeCamp/3.2FirstCppProgram/main.dSYM/Contents/Info.plist
+C++/freeCodeCamp/3.2FirstCppProgram/main.dSYM/Contents/Resources/DWARF/main
+.gitignore
+.gitignore
+C++/freeCodeCamp/Cpp20TemplateProject/main.dSYM/Contents/Info.plist
+C++/freeCodeCamp/Cpp20TemplateProject/main
+C++/freeCodeCamp/Cpp20TemplateProject/main.dSYM/Contents/Resources/DWARF/main
